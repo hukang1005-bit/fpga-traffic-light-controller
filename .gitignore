@@ -1,0 +1,9 @@
+.DS_Store
+traffic_controller/db/
+traffic_controller/incremental_db/
+traffic_controller/output_files/
+traffic_controller/*.qws
+traffic_controller/*.rpt
+simulation/work/
+simulation/transcript
+simulation/vsim.wlf
